@@ -12,6 +12,7 @@ Maximizar o valor de cada interação com o Manus através de técnicas avançad
 | [GUIDES.md](./GUIDES.md) | Guia detalhado com estratégias teóricas e práticas de otimização. |
 | [TEMPLATES.md](./TEMPLATES.md) | Modelos prontos para uso (Copy & Paste) para diferentes tipos de tarefas. |
 | [EXAMPLES.md](./EXAMPLES.md) | Comparativos de "Antes vs. Depois" mostrando a economia de tokens. |
+| [TOOLS.md](./TOOLS.md) | Scripts Python para otimização e expansão das capacidades do Manus. |
 
 ## 🛠️ Princípios Fundamentais
 1. **Precisão sobre Verbosidade**: Instruções diretas economizam tokens de entrada e saída.
